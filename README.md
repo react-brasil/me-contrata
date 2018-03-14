@@ -29,7 +29,7 @@ Clicando na _issue_, você poderá visualizar o Linkedin da pessoa
 para adicionar e entrar em contato.
 
 ## Outros repositórios de `me-contrata`
-Como esse repositório é específico para a postagem pra quem se interessa em trabalhar com React ou tecnologias do mesmo ecossistema, mas existem outros para muitas outras áreas nesse mercado. Confira abaixo as outras listas onde você poderá postar:
+Esse repositório é específico para a postagem pra quem se interessa em trabalhar com React ou tecnologias do mesmo ecossistema, mas existem outros para muitas outras áreas nesse mercado. Confira abaixo as outras listas onde você poderá postar:
 - https://github.com/frontendbr/me-contrata
 
 ## Licença
