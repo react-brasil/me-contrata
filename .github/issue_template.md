@@ -51,9 +51,12 @@
 
 <!--
 - JavaScript
-- HTML
-- CSS
-- PHP
+- React
+- React Native
+- GraphQL
+- Relay Modern
+- Redux
+- Jest
 -->
 
 ## Nível
