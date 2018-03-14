@@ -59,7 +59,7 @@
 - Jest
 -->
 
-## Tempo de experiência na área
+## Tempo de experiência em TI (Não necessáriamente Front-end/React)
 
 <!--
 - [ ] < 1 ano
