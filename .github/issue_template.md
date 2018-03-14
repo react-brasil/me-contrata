@@ -59,6 +59,15 @@
 - Jest
 -->
 
+## Tempo de experiência na área
+
+<!--
+- [ ] < 1 ano
+- [x] > 1 ano
+- [ ] > 2 anos
+- [ ] > 5 anos
+-->
+
 ## Nível
 
 <!--
