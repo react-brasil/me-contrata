@@ -1,6 +1,23 @@
+<div align="center">
+  <img  width="350" height="350" src="https://avatars2.githubusercontent.com/u/16929016?s=500&v=4" width="350" alt="React Brasil">
+	<br>
+	<br>
+	<p>
+		<a href="https://reactconf.com.br/">
+			<b>reactconf.com.br</b>
+		</a>
+	</p>
+	<br>
+</div>
 <p align="center">
-<img src="https://avatars2.githubusercontent.com/u/16929016?s=400&u=60f7754f634a169adc2027c05a359114d92c4a24&v=4" width="400" alt="Front-end Brasil">
+	<sub><i>Também confira nossos outros projetos</i></sub>
+  <br/>
+	<a href="https://github.com/react-brasil/awesome-react-events-br">Eventos sobre React</a>&nbsp;&nbsp;&nbsp;
+ 	<a href="https://github.com/react-brasil/empresas-que-usam-react-no-brasil">Empresas que usam React no Brasil</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/react-brasil/vagas/issues?q=is%3Aopen+is%3Aissue">Procurando emprego?</a>&nbsp;&nbsp;&nbsp;
 </p>
+<br/>
+
 <h1 align="center">Me Contrata</h1>
 <p align="center">:microscope: Repositório para cadastro de pessoas que estão em busca de um emprego para trabalhar com React e tecnologias do mesmo ecossistema.</p>
 
